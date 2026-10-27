@@ -59,18 +59,18 @@ module.exports = {
           id:   'node1',
           name: 'Node-1',
           logs: {
-            server:  '/home/fbdit/App_log/fbd-node1-reports/app1-server.log',
-            console: '/home/fbdit/App_log/fbd-node1-reports/app1-console.log',
-            gc:      '/home/fbdit/App_log/fbd-node1-reports/app1-gc.log',
+            server:  '/home/fbdit/App_log/fbd-node1/app1-server.log',
+            console: '/home/fbdit/App_log/fbd-node1/app1-console.log',
+            gc:      '/home/fbdit/App_log/fbd-node1/app1-gc.log',
           }
         },
         {
           id:   'node2',
           name: 'Node-2',
           logs: {
-            server:  '/home/fbdit/App_log/fbd-node2-node3/app2-server.log',
-            console: '/home/fbdit/App_log/fbd-node2-node3/app2-console.log',
-            gc:      '/home/fbdit/App_log/fbd-node2-node3/app2-gc.log',
+            server:  '/home/fbdit/App_log/fbd-node2/app2-server.log',
+            console: '/home/fbdit/App_log/fbd-node2/app2-console.log',
+            gc:      '/home/fbdit/App_log/fbd-node2/app2-gc.log',
           }
         },
         {
@@ -119,27 +119,27 @@ module.exports = {
           id:   'node1',
           name: 'Node-1',
           logs: {
-            server:  '/home/fbdit/App-logs/ae-node1/app1-server.log',
-            console: '/home/fbdit/App-logs/ae-node1/app1-console.log',
-            gc:      '/home/fbdit/App-logs/ae-node1/app1-gc.log',
+            server:  '/home/fbdit/App_log/ae-node1-node2/app1-server.log',
+            console: '/home/fbdit/App_log/ae-node1-node2/app1-console.log',
+            gc:      '/home/fbdit/App_log/ae-node1-node2/app1-gc.log',
           }
         },
         {
           id:   'node2',
           name: 'Node-2',
           logs: {
-            server:  '/home/fbdit/App-logs/ae-node1/app2-server.log',
-            console: '/home/fbdit/App-logs/ae-node1/app2-console.log',
-            gc:      '/home/fbdit/App-logs/ae-node1/app2-gc.log',
+            server:  '/home/fbdit/App_log/ae-node1-node2/app2-server.log',
+            console: '/home/fbdit/App_log/ae-node1-node2/app2-console.log',
+            gc:      '/home/fbdit/App_log/ae-node1-node2/app2-gc.log',
           }
         },
         {
           id:   'node3',
           name: 'Node-3',
           logs: {
-            server:  '/home/fbdit/App-logs/ae-node2-reports/app3-server.log',
-            console: '/home/fbdit/App-logs/ae-node2-reports/app3-console.log',
-            gc:      '/home/fbdit/App-logs/ae-node2-reports/app3-gc.log',
+            server:  '/home/fbdit/App_log/ae-node3-reports/app3-server.log',
+            console: '/home/fbdit/App_log/ae-node3-reports/app3-console.log',
+            gc:      '/home/fbdit/App_log/ae-node3-reports/app3-gc.log',
           }
         },
       ]
